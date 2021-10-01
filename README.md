@@ -6,7 +6,7 @@ I am PhD student at the University of Missouri-Columbia. My research interest is
  
 ![Profile views](https://gpvc.arturio.dev/Rajshekhorroy)  
 
-<img src=> [Google Scholar](https://scholar.google.com/citations?user=bvWKL3UAAAAJ&hl=en) · 👔 [LinkedIn](https://www.linkedin.com/in/rajshekhorroy/) · 🐦 [Twitter](https://twitter.com/RajShekhorRoy)
+<img src="sc.png" style="width:15px;height:15px;"> [Google Scholar](https://scholar.google.com/citations?user=bvWKL3UAAAAJ&hl=en) ·<img src="ln.png" style="width:15px;height:15px;"> 👔 [LinkedIn](https://www.linkedin.com/in/rajshekhorroy/) · <img src="tw.jpg" style="width:15px;height:15px;"> [Twitter](https://twitter.com/RajShekhorRoy)
 
 
 
