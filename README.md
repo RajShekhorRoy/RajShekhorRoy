@@ -2,7 +2,7 @@
 
 
 
-I am PhD student at the University of Missouri-Columbia. My research interest is in bioinformatics.
+I am a PhD student at the University of Missouri-Columbia. My research interest is in bioinformatics.
  
 ![Profile views](https://gpvc.arturio.dev/Rajshekhorroy)  
 
