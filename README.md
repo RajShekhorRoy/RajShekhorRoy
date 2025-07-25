@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-
-I am a PhD student at the University of Missouri-Columbia. My research interest is in bioinformatics.
- 
- 
+Postdoctoral researcher in bioinformatics with interest in developing deep learning tools for protein structure prediction, drug/vaccine-related research.
 
 <img src="sc.png" style="width:15px;height:15px;"> [Google Scholar](https://scholar.google.com/citations?user=bvWKL3UAAAAJ&hl=en) ·<img src="ln.png" style="width:15px;height:15px;"> 👔 [LinkedIn](https://www.linkedin.com/in/rajshekhorroy/) · <img src="tw.jpg" style="width:15px;height:15px;"> [Twitter](https://twitter.com/RajShekhorRoy)
 
